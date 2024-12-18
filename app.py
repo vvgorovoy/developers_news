@@ -3,7 +3,7 @@ import os
 from datetime import datetime
 
 # Списки застройщиков и категорий новостей
-developers = ['Застройщик 1', 'Застройщик 2', 'Застройщик 3']
+developers = ['ПИК', 'ЛСР', 'ФСК', 'Донстрой']
 news_categories = ['Категория 1', 'Категория 2', 'Категория 3']
 
 sg.theme('LightBrown1')
